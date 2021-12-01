@@ -1,0 +1,2 @@
+# .calv.conf
+Linux configurations
